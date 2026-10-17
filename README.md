@@ -54,5 +54,8 @@ Amazon RDS (Relational Database Service) stores structured application data.
 ## 7. Conclusion
 
 This conceptual architecture demonstrates how compute, storage, networking, database, and identity services work together to support a secure and scalable web application.
+## 8. Cloud Architecture Diagram
+
+![Cloud Architecture Diagram](cloud-architecture.png)
 
 **Note:** This is a design document. No AWS resources have been deployed.
